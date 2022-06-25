@@ -13,7 +13,10 @@ import fire
 import questionary
 
 
-from qualifier.utils.fileio import load_csv
+from qualifier.utils.fileio import (
+    load_csv,
+    save_csv,
+)
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
@@ -104,51 +107,17 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     return bank_data_filtered
 
 
-def save_csv(qualifying_loans):
-    """Saves the qualifying loans to a CSV file.
-
-    Args:
-        qualifying_loans (list of lists): The qualifying bank loans.
-
-    Return:
-        A csv file of bank list that is willing to give the applicant the loan
-    """
-    # @TODO: Complete the usability dialog for savings the CSV Files.
-    # YOUR CODE HERE!
-    csvpath = questionary.text("Enter a name for your (.csv) file:").ask()
-    csvpath = Path(csvpath)
-
-    if not csvpath:
-        sys.exit("That is not a valid file path")
-    header = [
-        "Lender",
-        "Max Loan Amount",
-        "Max LTV",
-        "Max DTI",
-        "Min Credit Score",
-        "Interest Rate",
-    ]
-    with open(csvpath, "w", newline="") as csvfile:
-        writer = csv.writer(csvfile, delimiter=",")
-        writer.writerow(header)
-
-        for keys in qualifying_loans:
-            writer.writerow(keys)
-        
-
 def save_qualifying_loans(qualifying_loans):
-    """This function ask the user if they like to save the file 
+    """This function ask the user if they like to save the file
     of qualifying loans and wher they want it saved.
-    
-    Return: Massage stating where the file is saved. 
+
+    Return: Massage stating where the file is saved.
     """
     answer = answer = questionary.confirm("do you want to write your file").ask()
     if answer:
         save_csv(qualifying_loans)
     else:
         sys.exit("You didnt enter a valid path to save your file")
-
-
 
 
 def run():
