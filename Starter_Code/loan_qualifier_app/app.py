@@ -134,7 +134,7 @@ def save_csv(qualifying_loans):
 
         for keys in qualifying_loans:
             writer.writerow(keys)
-        print(f"Your file have been saved to: {csvpath}")
+        
 
 def save_qualifying_loans(qualifying_loans):
     """This function ask the user if they like to save the file 
