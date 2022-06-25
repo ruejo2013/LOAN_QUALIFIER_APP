@@ -1,20 +1,40 @@
 # Project Title
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This app returns a csv file of list of banks that can afford to offer a user a loan amount, given user information, like credit score, loan amount, monthly incoe of the user etc.
 
 ---
 
 ## Technologies
-
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+To run this app, user need a mac OS or windows OS, that can run python3 applications. Other python applications, libraries and frameworks used in this project include:
+1. sys 
+2. csv 
+3. questionary
+4. pathlib
+5. fire 
+See requirements.txt for list of all libaries used.
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+To install libaries and frameworks need to run the application. 
+Create a git repository
+On your terminal follow the following steps:
+    
+    cd <location of file>
+    conda create -n <evn_name> python=3.7 
+    conda activate <evn_name>
+    pip install fire 
+    pip install questionary
+    git clone <link to repo>
+    python3 app.py
 
----
+Follow the prompts and enter the correct values and file path when asked. 
+
+![Http install fire](images/install_fire.jpg)
+
+
+
 
 ## Usage
 
