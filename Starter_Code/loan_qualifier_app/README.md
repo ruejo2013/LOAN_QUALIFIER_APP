@@ -38,13 +38,14 @@ Follow the prompts and enter the correct values and file path when asked.
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+This application generate a file, of the list of banks, max amount of loan they can offer, mininum credit score and interest rate they willing to offer the user. Given the users credit score, monthly income, current loans, value of house and how much they want to borrow. 
+![Http List of banks](images/bank_list.jpg)
 
----
+
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+This project is incollaboration with the Columbia University FinTech 2022 bootcamp team, and capabilties extended by Patrick R. For questions and comment kindly contact Patrick via email on pruejoma@gmail.com.
 
 ---
 
