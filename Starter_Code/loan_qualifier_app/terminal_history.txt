@@ -1072,3 +1072,12 @@
  1121  rm -r loans_amount2.csv
  1122  ls 
  1123  clear 
+ 1124  history 50 > terminal_history.txt
+ 1125  git status 
+ 1126  git add . 
+ 1127  git commit -m 'Added terminal history file'
+ 1128  clear 
+ 1129  git push origin main 
+ 1130  clear
+ 1131  ls
+ 1132  git pull git@github.com:ruejo2013/fintech_bootcamp_module_2.git
