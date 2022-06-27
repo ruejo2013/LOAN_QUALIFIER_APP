@@ -1,0 +1,1074 @@
+   50  ./apples.py the  -v a
+   51  ./apples.py themeoneeednaghs   -v a
+   52  ./apples.py themeoneeednaghs   -v o
+   53  ./apples.py themeoneeednaghs   -v u
+   54  ./apples.py themeoneeednaghs   -v e
+   55  pwd
+   56  ls
+   57  touch __init__.py
+   58  touch test.py
+   59  touch oop_01.py
+   60  chmod +x oop_01.py
+   61  ./oop_01.py
+   62  ./oop_01.py
+   63  ./oop_01.py
+   64  ./oop_01.py
+   65  ./oop_01.py
+   66  ./oop_01.py
+   67  ./oop_01.py
+   68  ./oop_01.py
+   69  ./oop_01.py
+   70  ./oop_01.py
+   71  ./oop_01.py
+   72  ./oop_01.py
+   73  ./oop_01.py
+   74  ./oop_01.py
+   75  ./oop_01.py
+   76  import this
+   77  python import this
+   78  python3 import this 
+   79  python 
+   80  ./oop_01.py
+   81  ./oop_01.py
+   82  ./oop_01.py
+   83  ./oop_01.py
+   84  ./oop_01.py
+   85  ./oop_01.py
+   86  ./oop_01.py
+   87  ./oop_01.py
+   88  ./oop_01.py
+   89  ./oop_01.py
+   90  ./oop_01.py
+   91  ./oop_01.py
+   92  touch triangle.py
+   93  chmod +xu triangle.py
+   94  ./triangle.py
+   95  ./triangle.py
+   96  ./triangle.py
+   97  conda --version
+   98  conda update conda
+   99  conda update anaconda
+  100  python3 -m venv fintech-dev 
+  101  deactivate 
+  102  deactivate
+  103  cd ..
+  104  ls
+  105  cd columbia_university_fintech_boothcamp
+  106  python3 -m venv fintech-dev 
+  107  source fintech-dev/bin/activate
+  108  pip3 install pandas 
+  109  pip3 install black 
+  110  pip3 install pylint 
+  111  pip3 install pytest 
+  112  pip3 install matplotlib 
+  113  pip3 install seaborn 
+  114  pip3 install sklearn 
+  115  pip install kite
+  116  pip3 install kite
+  117  python3 -m pip install --upgrade pip 
+  118  pip3 install kite
+  119  python3 upgrade pip 
+  120  conda activate fintech-dev
+  121  /usr/local/bin/python3 /Users/patrickrue/Documents/Fintech-workspace/Python_Project/hello_python.py
+  122  /usr/local/bin/python3 /Users/patrickrue/Documents/Fintech-workspace/Python_Project/hello_python.py
+  123  cd Document 
+  124  lsx
+  125  ls
+  126  cd ..
+  127  ls
+  128  cd Fintech-workspace
+  129  conda activate fintech-dev
+  130  ls
+  131  cd Python_Project
+  132  ls
+  133  chmod +x hello_python.py
+  134  python ./hello_python.py
+  135  python --version 
+  136  conda deactivate
+  137  code .
+  138  code .
+  139  conda activate dev 
+  140  python --version 
+  141  python -m venv --help
+  142  python -m dev --help
+  143  conda deactivate 
+  144  conda create -n dev python=3.4 django
+  145  conda activate dev
+  146  conda info --envs
+  147  conda create -n fintech-dev python=3.7 django
+  148  conda activate fintech-dev
+  149  python --version 
+  150  python3 upgrade pip 
+  151  pip install python=3.7
+  152  pip install python==3.7
+  153  virtualenv -p python3 fintech-dev
+  154  conda -p python3.7 fintech-dev
+  155  clear
+  156  conda --envs
+  157  conda -v --envs
+  158  conda deactivate fintech-dev
+  159  conda deactivate
+  160  conda create -n dev python=3.7 
+  161  conda activate dev 
+  162  ls
+  163  ./hello_python.py
+  164  python ./hello_python.py
+  165  clear
+  166  conda activate fintech-dev 
+  167  python --version 
+  168  conda deactivate fintech-dev
+  169  conda deactivate
+  170  conda activate dev
+  171  python --version
+  172  conda deactivate
+  173  python --version 
+  174  pwd
+  175  ls
+  176  pwd
+  177  cd Document
+  178  cd ..
+  179  pwd
+  180  cd ..
+  181  ls
+  182  pwd
+  183  mkdir Fintech-workspace 
+  184  ls
+  185  cd Fintech-workspace
+  186  ls
+  187  conda activate 
+  188  conda activate dev 
+  189  python --version 
+  190  conda deactivate 
+  191  python --version 
+  192  ls
+  193  cd Python_Project
+  194  ls
+  195  conda activate dev 
+  196  python --version 
+  197  conda deactivate 
+  198  conda create -n dev python=3.7 
+  199  conda activate dev
+  200  clear 
+  201  python --version 
+  202  python --version s
+  203  python --versions
+  204  python -h
+  205  clear
+  206  /Users/patrickrue/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  207  ls
+  208  source fintech-dev/bin/activateconda activate fintech-dev
+  209  conda activate fintech-dev
+  210  source fintech-dev/bin/activate
+  211  python3 -m venv fintech-dev
+  212  ls
+  213  cd patrickrue
+  214  ls
+  215  cd Documents
+  216  ls
+  217  cd columbia_fintect_bootcamp
+  218  ls
+  219  CONDA INIT ZSH
+  220  conda init zsh
+  221  clear
+  222  ls
+  223  cd ..
+  224  ls
+  225  cd Fintech-workspace
+  226  code .
+  227  pip3 install python3 
+  228  pip3 upgrade python 
+  229  brew update 
+  230  brew upgrade brew
+  231  upgrade brew
+  232  brew upgrade
+  233  brew update 
+  234  brew install python3
+  235  pip3 install pandas
+  236  pip3 install matplotlib
+  237  pip3 install sklearn
+  238  pip3 install pylint
+  239  pip3 install black
+  240  pip3 install flask
+  241  pip3 install autopep8
+  242  which aws
+  243  aws --version 
+  244  which python 
+  245  python --version 
+  246  conda create -n fintech-dev python=3.7 
+  247  conda create -n dev python=3.7
+  248  code .
+  249  code .
+  250  cd ..
+  251  brew install python 
+  252  brew link python@3.9 
+  253  brew link --overwrite python@3.9
+  254  python --version 
+  255  clear 
+  256  brew install pyenv
+  257  pyenv install 3.7.3
+  258  clear
+  259  pyenv global 3.7.3
+  260  pyenv install 3.7.3
+  261  pyenv global 3.7.3
+  262  brew list | grep python 
+  263  brew info python 
+  264  brew update && brew upgrade python 
+  265  which pip3 
+  266  which pip 
+  267  which pip3 
+  268  echo '/Users/patrickrue/opt/anaconda3/bin/pip3' >> ~/.zshrc
+  269  echo '/Users/patrickrue/opt/anaconda3/bin/pip3' >> ~/.bashrc
+  270  exec $0 
+  271  conda activat fintech-dev
+  272  conda activate fintech-dev
+  273  conda create -n fintech-dev python=3.7 anaconda 
+  274  conda activate fintech-dev
+  275  echo $SHELL
+  276  clear 
+  277  python -v
+  278  clear
+  279  python --version 
+  280  cd ..
+  281  CD ..
+  282  CD ..
+  283  python --version 
+  284  cd ..
+  285  cd ..
+  286  python --version 
+  287  python --version 
+  288  conda activate dev 
+  289  pyenv local 3.9.13
+  290  python --version 
+  291  pyenv versions 
+  292  python -V
+  293  source /Users/patrickrue/Documents/Fintech-workspace/dev/bin/activate
+  294   /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 54688 -- /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py 
+  295  source /Users/patrickrue/Documents/Fintech-workspace/dev/bin/activate
+  296  conda activate dev 
+  297  deactivate 
+  298  activate dev 
+  299  conda activate dev 
+  300  clear
+  301  source /Users/patrickrue/Documents/Fintech-workspace/dev/bin/activate
+  302   /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 52740 -- /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  303   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 52757 -- /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  304   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 52783 -- /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py 
+  305   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 53603 -- /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/03_Ins_Lists/Solved/lists.py 
+  306   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 53635 -- /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/03_Ins_Lists/Solved/lists.py 
+  307   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 53673 -- /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/03_Ins_Lists/Solved/lists.py 
+  308  clear
+  309   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 54366 -- /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py 
+  310   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 54662 -- /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py 
+  311   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55248 -- /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py 
+  312   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55336 -- /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py 
+  313   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55501 -- /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py 
+  314  ls
+  315   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 56312 -- /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py 
+  316  ls
+  317   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 58837 -- /Users/patrickrue/Documents/Fintech-workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  318   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 58848 -- /Users/patrickrue/Documents/Fintech-workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  319   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 58860 -- /Users/patrickrue/Documents/Fintech-workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  320   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 58870 -- /Users/patrickrue/Documents/Fintech-workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  321   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 58924 -- /Users/patrickrue/Documents/Fintech-workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  322   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 58933 -- /Users/patrickrue/Documents/Fintech-workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py 
+  323  ls 
+  324  cd 02_Nested_Conditionals
+  325  ls 
+  326  cd Unsolved
+  327  ls
+  328  python nested_conditionals.py
+  329   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 59858 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  330   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 59888 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  331   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 59925 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  332   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 59943 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  333   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 59963 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  334   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 59993 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  335   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 60007 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py 
+  336  clear
+  337  ls
+  338  touch fintech_test_codes.py 
+  339   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 60640 -- /Users/patrickrue/Documents/Fintech-workspace/02_Returned_Goods/Unsolved/returned_goods.py 
+  340   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 60767 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  341   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 60789 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  342   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 60806 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  343   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 60806 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py  cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 60836 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  344   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 60856 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  345   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 60884 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  346   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 60922 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  347   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 60943 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  348   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 60977 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  349   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 61020 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  350   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 61031 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  351   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 61069 -- /Users/patrickrue/Documents/Fintech-workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  352   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 63296 -- /Users/patrickrue/Documents/Fintech-workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  353   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 63309 -- /Users/patrickrue/Documents/Fintech-workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  354   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 63321 -- /Users/patrickrue/Documents/Fintech-workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  355   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 63333 -- /Users/patrickrue/Documents/Fintech-workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  356   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 65109 -- /Users/patrickrue/Documents/Fintech-workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  357  clear
+  358   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 65118 -- /Users/patrickrue/Documents/Fintech-workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  359  clear
+  360   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 65408 -- /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  361   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 65445 -- /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  362   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 65468 -- /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  363   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 65491 -- /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  364   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 65504 -- /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  365  ls
+  366  cd 03_Pathways_to_Success_Part_2
+  367  ls
+  368  cd Unsolved
+  369  pwd
+  370   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 49204 -- /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  371  source /Users/patrickrue/Documents/Fintech-workspace/dev/bin/activate
+  372  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  373  clear 
+  374  chmod +x fintech_test_codes.py
+  375  python3 ./fintech_test_codes.py
+  376  python3 ./fintech_test_codes.py
+  377  python3 ./fintech_test_codes.py
+  378  ls
+  379  cd 01_A_Definitive_Buy
+  380  ls
+  381  cd Unsolved
+  382  ls
+  383  python a_definitive_buy.py
+  384  clear
+  385  conda create -m dev python=3.9.13 
+  386  conda create -n dev python=3.9.13 
+  387  cd Docu
+  388  ls
+  389  clear 
+  390  conda activate dev 
+  391  conda info --envs
+  392  conda create -n dev python=3.9.13
+  393  clear
+  394  conda activate dev 
+  395  conda info --envs
+  396  conda create -n dev python=3.9
+  397  conda activate dev 
+  398  python --version
+  399  python -V
+  400  CLEAR
+  401  pyenv install 3.9.13
+  402  pyenv versions
+  403  pyenv local 3.9.13
+  404  python -V
+  405  python ./hello.py
+  406  python ./hello_python.py
+  407  ls
+  408  cd Python_Project
+  409  ls
+  410  python ./hello_python.py
+  411  conda deactivate 
+  412  clear 
+  413  cd ..
+  414  ls
+  415  python -m dev .venv 
+  416  python -m venv .venv 
+  417  python -m venv .venv 
+  418  virtualenv -p python3 dev 
+  419  virtualenv -p python3 dev 
+  420  source dev/bin/activate 
+  421  which python 
+  422  which pip 
+  423  python -V
+  424  clear
+  425  cd Python_Project
+  426  python ./hello_python.py
+  427  python ./hello_python.py
+  428  ls
+  429  cd ..
+  430  ls
+  431  cd 01_Hello_Variable_World
+  432  ls
+  433  cd Unsolved
+  434  ls
+  435  chmod +xa hello_variable_world.py
+  436  chmod +x hello_variable_world.py
+  437  python ./hello_variable_world.py
+  438  clear
+  439  clear
+  440  clear
+  441  python ./hello_variable_world.py
+  442  ls
+  443  cd ..
+  444  ls
+  445  cd ..
+  446  ls
+  447  cd 02_Listing_Assets
+  448  ls
+  449  chmod +x Unsolved
+  450  cd Unsolved
+  451  ls
+  452  python ./listing_assets.py
+  453  cd ..
+  454  cd ..
+  455  ls
+  456  cd 03_The_401k_Shuffle
+  457  ls
+  458  cd Unsolved
+  459  ls
+  460  python the_401k_shuffle.py
+  461  python ./the_401k_shuffle.py
+  462  python ./the_401k_shuffle.py
+  463  python ./the_401k_shuffle.py
+  464  clear
+  465  python ./the_401k_shuffle.py
+  466  python ./the_401k_shuffle.py
+  467  python ./the_401k_shuffle.py
+  468  python ./conditional_statement.py
+  469  cd ..
+  470  ls
+  471  cd ..
+  472  ls
+  473  cd 01_Conditional_Statement
+  474  ls
+  475  cd Unsolved
+  476  python ./conditional_statement.py
+  477  python ./conditional_statement.py
+  478  python ./conditional_statement.py
+  479  clear
+  480  pythonls
+  481  ls
+  482  cd ..
+  483  cd ..
+  484  ls
+  485  cd 01_
+  486  cd 01_Conditional_Statement
+  487  ls
+  488  cd Unsolved
+  489  python ./percent_increase.py 
+  490  chmod +x percent_increase.py 
+  491  ls
+  492  cd ..
+  493  ls
+  494  cd ..
+  495  code .
+  496  clear
+  497  cd ..
+  498  xcode-select --install 
+  499  xcode-select --install 
+  500  brew install xcode
+  501  brew install xcode-kotlin 
+  502  xcode-select --install 
+  503  xcode-select update
+  504  xcode-select --version 
+  505  brew install openssl readline sqlite3 x zlib 
+  506  brew install openssl readline sqlite3 xz zlib 
+  507  clear
+  508  brew update 
+  509  brew isnatll pyenv 
+  510  brew install pyenv 
+  511  git clone https://github.com/pyenv.git ~/.pyenv
+  512  cd ~
+  513  git clone https://github.com/pyenv.git ~/.pyenv
+  514  pip3 install -U virtualenv
+  515  code .
+  516  source /Users/patrickrue/Documents/Fintech-workspace/dev/bin/activate
+  517  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  518  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  519  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  520  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  521  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  522  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  523  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  524  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  525  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  526  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  527  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  528  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  529  clear
+  530  source /Users/patrickrue/Documents/Fintech-workspace/dev/bin/activate
+  531   /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 49815 -- /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  532  clear
+  533   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 49843 -- /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  534   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 49882 -- /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  535   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 49896 -- /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  536   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 49914 -- /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  537   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 49988 -- /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  538   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 49999 -- /Users/patrickrue/Documents/Fintech-workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  539   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 50122 -- /Users/patrickrue/Documents/Fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  540   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 50130 -- /Users/patrickrue/Documents/Fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  541   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 50146 -- /Users/patrickrue/Documents/Fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  542   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 50162 -- /Users/patrickrue/Documents/Fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  543   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 50247 -- /Users/patrickrue/Documents/Fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  544   cd /Users/patrickrue/Documents/Fintech-workspace ; /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 50262 -- /Users/patrickrue/Documents/Fintech-workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  545  pyenv shell 3.9.13
+  546   /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 51508 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  547   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 53401 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  548   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 53415 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  549   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 53456 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  550  clear
+  551   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 53568 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  552   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 53583 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  553   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 54662 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  554   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 54680 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  555   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 54733 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  556   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 59271 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  557   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 59959 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  558   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 60071 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  559  ls
+  560  cd ..
+  561  ls
+  562  cd ..
+  563  ls
+  564  cd FinTech_module_chalenge
+  565  ls
+  566  cd module_1_challenge
+  567  ls
+  568  conda activate dev
+  569  pip3 install pylint
+  570  pip3 install black 
+  571  black ./loan_analyzer.py
+  572  chmod +x loan_analyzer.py 
+  573  ls
+  574  ls 
+  575  cd ..
+  576  ls
+  577  cd Starter_Code
+  578  ls
+  579  black loan_analyzer.py
+  580  pip3 install autopep8
+  581  ls
+  582  autopep8 loan_analyzer.py
+  583  ls
+  584  pip3 install flake8
+  585  ls 
+  586  flake8 loan_analyzer.py
+  587  black loan_analyzer.py
+  588  black loan_analyzer.py
+  589  pylint loan_analyzer.py
+  590   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 57237 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  591   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 57330 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  592   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 57422 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  593   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 57433 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  594   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 57655 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  595   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 58207 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  596   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 58285 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  597   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 58438 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  598   cd /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code ; /usr/bin/env /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 58556 -- /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py 
+  599  python3 ./loan_analyzer.py
+  600  chmod +x loan_analyzer.py
+  601  python3 ./loan_analyzer.py
+  602  python3 ./loan_analyzer.py
+  603  python3 ./loan_analyzer.py
+  604  cd ..
+  605  ls
+  606  pwd
+  607  git clone https://github.com/ruejo2013/fintech_bootcamp.git
+  608  ls
+  609  cd module_1_challenge
+  610  ls
+  611  cd ..
+  612  ls 
+  613  mv Starter_Code module_1_challenge
+  614  ls 
+  615  cd module_1_challenge
+  616  ls
+  617  cd ..
+  618  ls 
+  619  mv module_1_challenge
+  620  mv module_1_challenge fintech_bootcamp
+  621  ls 
+  622  cd fintech_bootcamp
+  623  git add . 
+  624  git commit -m "This is the first commit to module 1 chanllenge file. Code ran successfull\n\n
+  625  ls
+  626  git add . 
+  627  git commit -m "This is the first commit to module 1 chanllenge file"
+  628  git push origin master 
+  629  git push master origin 
+  630  git remote -v
+  631  git brach -M main 
+  632  git branch -M main 
+  633  git push -origin main 
+  634  git remote add origin https://github.com/ruejo2013/fintech_bootcamp.git
+  635  git push -u origin main 
+  636  ls -al ~/.ssh
+  637  ls
+  638  cd module_1_challenge
+  639  ls 
+  640  cd Starter_Code
+  641  ls
+  642  mv inexpensive_loans.csv module_1_challenge 
+  643  ls
+  644  cd ..
+  645  ls
+  646  cd ..
+  647  cd module_1_challenge
+  648  ls
+  649  cd Starter_Code
+  650  ls
+  651  cd module_1_challenge
+  652  ls
+  653  mv loan_analyzer.py ./module_1_challenge
+  654  ls
+  655  mv test.py ./module_1_challenge
+  656  ls
+  657  cd module_1_challenge
+  658  ls
+  659  cd module_1_challenge
+  660  cd ..
+  661  ls 
+  662  cd Starter_Code
+  663  ls
+  664  cd 
+  665  cd ..
+  666  cd ..
+  667  ls
+  668  cd Users
+  669  ls
+  670  cd patrickrue
+  671  ls
+  672  cd Documents
+  673  ls
+  674  cd FinTech_module_chalenge
+  675  ls
+  676  cd fintech_bootcamp
+  677  ls
+  678  cd module_1_challenge
+  679  ls
+  680  cd Starter_Code
+  681  ls
+  682  cd ..
+  683  cd ..
+  684  git clone git@github.com:ruejo2013/fintech_bootcamp.git
+  685  ls
+  686  cd fintech_bootcamp
+  687  ls
+  688  cd module_1_challenge
+  689  ls
+  690  cd Starter_Code
+  691  ls
+  692  python3 loan_analyzer.py
+  693  python3 loan_analyzer.py
+  694  ls 
+  695  pip3 freeze > requirements.txt
+  696  ls 
+  697  git add . 
+  698  git commit -m "Added requirement.txt file, to include all enviroment variables to easily run this code"
+  699  git push -u origin main 
+  700  ls
+  701  git pull git@github.com:ruejo2013/fintech_bootcamp.git
+  702  ls 
+  703  ls
+  704  python3 ./loan_analyzer.py
+  705  clear
+  706  pip freeze
+  707  pip -V
+  708  cd ..
+  709  cd ..
+  710  pip install fire
+  711  python3 -m pip install --upgrade pip 
+  712  clear
+  713  pip install questionary 
+  714  pip freeze
+  715  clear
+  716  pythpn help(questionary)
+  717  python help(questionary)
+  718  python print(__doc__.questionary)
+  719  python 
+  720  cd ..
+  721  ls
+  722  cd .
+  723  ls
+  724  cd ..
+  725  cd ..
+  726  ls
+  727  cd Fintech-workspace
+  728  ls 
+  729  cd module_2
+  730  ls 
+  731  code .
+  732  pyenv shell 3.9.13
+  733  /Users/patrickrue/.pyenv/versions/3.9.13/bin/python /Users/patrickrue/Documents/FinTech_module_chalenge/Starter_Code/loan_analyzer.py
+  734  source /Users/patrickrue/Documents/Fintech-workspace/dev/bin/activate
+  735  source /Users/patrickrue/Documents/Fintech-workspace/dev/bin/activate
+  736   /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 62865 -- /Users/patrickrue/Documents/Fintech-workspace/module_2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+  737  source /Users/patrickrue/Documents/Fintech-workspace/dev/bin/activate
+  738   /usr/bin/env /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 62872 -- /Users/patrickrue/Documents/Fintech-workspace/module_2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+  739  clear
+  740  ls
+  741  cd module_2
+  742  ls
+  743  cd 01_Loan_Qualifier_Financial_Calculations
+  744  ls
+  745  cd Unsolved
+  746  ls
+  747  clear 
+  748  python3 app.py
+  749  ls
+  750  python3 app.py
+  751  ls
+  752  cd ..
+  753  ls
+  754  cd ..
+  755  ls
+  756  clear
+  757  ls
+  758  cd 02_Loan_Qualifier_Filtering_Data
+  759  ls
+  760  cd Unsolved
+  761  ls
+  762  python app.py
+  763  clear
+  764  python app.py
+  765  python app.py
+  766  python app.py
+  767  ls
+  768  clear
+  769  cd ..
+  770  ls
+  771  cd Unsolved
+  772  ls
+  773  python app.py
+  774  ls
+  775  cd ..
+  776  ls
+  777  cd ..
+  778  ls
+  779  cd ..
+  780  ls
+  781  cd Class_1_Activitiesls
+  782  ls 
+  783  cd Class_1_Activities
+  784  ls 
+  785  cd 05_Stu_ATM_Modularization
+  786  ls
+  787  cd Unsolved
+  788  clear
+  789  pwd
+  790  touch utils.py
+  791  cd atm
+  792  ls
+  793  touch utils.py
+  794  pwd
+  795  mkdir actions 
+  796  ls
+  797  cd actions
+  798  touch make_withdrawal.py 
+  799  touch make_deposit.py
+  800  cd ..
+  801  clear
+  802  ls
+  803  rm -r utils.py
+  804  ls
+  805  touch utils.py 
+  806  ls
+  807  cd ..
+  808  ls
+  809  rm -r utils.py 
+  810  source /Users/patrickrue/Documents/Fintech-workspace/dev/bin/activate
+  811  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  812  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  813  ls
+  814  cd Class_1_Activities
+  815  ls
+  816  cd 05_Stu_ATM_Modularization
+  817  ls
+  818  cd Unsolved
+  819  ls
+  820  clear
+  821  ls
+  822  cd atm
+  823  ls
+  824  python3 atm.py 
+  825  clear
+  826  python3 atm.py 
+  827  clear
+  828  python3 atm.py 
+  829  python3 atm.py 
+  830  clear
+  831  python3 atm.py 
+  832  clear
+  833  ls
+  834  head -n 3 data
+  835  cd data
+  836  ls
+  837  account.csv head -n 3 
+  838  head -n 3 account.csv
+  839  ls
+  840  head -n 3 accounts.csv
+  841  cat accounts.csv
+  842  clear
+  843  pip3 install fire
+  844  pip install pandas 
+  845  clear
+  846  ls 
+  847  cd ..
+  848  ls
+  849  pwd
+  850  cd ..
+  851  ls
+  852  cd ..
+  853  pwd
+  854  touch cli.py 
+  855  clear
+  856  python3 cli.py
+  857  python3 cli.py
+  858  python3 cli.py
+  859  python3 cli.py
+  860  python3 cli.py
+  861  python3 cli.py
+  862  python3 cli.py
+  863  clear
+  864  python3 cli.py
+  865  python3 cli.py
+  866  python3 cli.py
+  867  python3 cli.py
+  868  python3 cli.py
+  869  clear
+  870  python3 cli.py --pants=True
+  871  python3 cli.py --pants=True
+  872  python3 cli.py --pants=True
+  873  python3 cli.py 
+  874  python3 cli.py 
+  875  python3 cli.py --pants=True
+  876  clear
+  877  python3 cli.py --pants=True
+  878  python3 cli.py 
+  879  pwd
+  880  ls
+  881  cd Unsolved
+  882  ls
+  883  cd atm
+  884  ls
+  885  clear
+  886  ls
+  887  pwd
+  888  ls
+  889  cd actions
+  890  LS
+  891  /Users/patrickrue/Documents/Fintech-workspace/dev/bin/python /Users/patrickrue/Documents/Fintech-workspace/module_2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  892  CLEAR
+  893  PIP INSTALL QUESTIONARY 
+  894  pip install questionary 
+  895  ls 
+  896  pwd
+  897  cd ..
+  898  ls
+  899  cd ..
+  900  clear
+  901  ls
+  902  cd ..
+  903  ls
+  904  cd ..
+  905  ls 
+  906  cd ..
+  907  ls
+  908  cd module_2
+  909  ls
+  910  clear
+  911  ls
+  912  cd Class_1_Activities
+  913  ls
+  914  cd 05_Stu_ATM_Modularization
+  915  ls
+  916  cd Unsolved
+  917  ls
+  918  cd atm 
+  919  ls
+  920  cd ..
+  921  ls
+  922  cd ..
+  923  ls
+  924  clear
+  925  cd ..
+  926  ls
+  927  cd .
+  928  ls
+  929  cd ..
+  930  ls
+  931  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  932  LS
+  933  CD uN
+  934  LS
+  935  cd Unsolved
+  936  clear
+  937  ls
+  938  python app.py
+  939  python app.py
+  940  python app.py
+  941  python app.py
+  942  clear
+  943  python app.py
+  944  python app.py
+  945  clear
+  946  pwd
+  947  ls
+  948  python3 app.py
+  949  python3 app.py --credit_score=750
+  950  clear
+  951  python3 app.py --credit_score=250
+  952  python3 app.py --credit_score=7500
+  953  python3 app.py --credit_score=7500 --debt=3000 --income=50000
+  954  clear
+  955  pip install questionary 
+  956  ls 
+  957  pwd
+  958  cd ..
+  959  cd ..
+  960  ls
+  961  pwd
+  962  clear
+  963  touch dialog.py
+  964  python3 dialog.py
+  965  python3 dialog.py
+  966  python3 dialog.py
+  967  python3 dialog.py
+  968  python3 dialog.py
+  969  python3 dialog.py
+  970  python3 dialog.py
+  971  clea
+  972  clear
+  973  python app.py --credit_score=750 --debt=5000 --income=20000
+  974  ls
+  975  cd 02_Adding_questionary_to_Loan_Qualifier
+  976  ls
+  977  cd Unsolved
+  978  ls
+  979  clear 
+  980  python app.py --credit_score=750 --debt=5000 --income=20000
+  981  clear
+  982  python app.py --credit_score=750 --debt=5000 --income=20000clear
+  983  clear
+  984  python3 app.py
+  985  ls
+  986  cd module_2
+  987  ls
+  988  cd 01_Loan_Qualifier_Financial_Calculations
+  989  clear
+  990  ls
+  991  cd Unsolved
+  992  python3 app.py
+  993  clear
+  994  git config --list
+  995  git config --global user.name Patrick R
+  996  git config --list
+  997  curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/install-poetry.py | python -
+  998  poetry --version
+  999  export PATH="/Users/patrickrue/.local/bin:$PATH"
+ 1000  poetry --version
+ 1001  clear
+ 1002  conda activate dev 
+ 1003  git clone git@github.com:ruejo2013/fintech_bootcamp_module_2.git
+ 1004  pwd
+ 1005  ls
+ 1006  mv Starter_Code fintech_bootcamp_module_2
+ 1007  ls
+ 1008  cd fintech_bootcamp_module_2
+ 1009  git status 
+ 1010  git add .
+ 1011  git status 
+ 1012  clear 
+ 1013  git add .
+ 1014  git commit -m "First commit, Moved Starter code to git repo folder"
+ 1015  clear
+ 1016  git status
+ 1017  clear
+ 1018  python3 app.py
+ 1019  ls
+ 1020  cd Starter_Code
+ 1021  python3 app.py
+ 1022  ls
+ 1023  cd loan_qualifier_app
+ 1024  clear
+ 1025  python3 app.py
+ 1026  clear
+ 1027  python3 app.py
+ 1028  clear
+ 1029  python3 app.py
+ 1030  clear
+ 1031  black app.py
+ 1032  pylint app.py
+ 1033  flake8 app.py
+ 1034  clear
+ 1035  python3 app.py
+ 1036  git add .
+ 1037  git commit -m "Add save qualifying loans to csv file function to app.py"
+ 1038  git commit -m "Add save qualifying loans function"
+ 1039  git status
+ 1040  git log
+ 1041  git status 
+ 1042  git push origin main 
+ 1043  clear 
+ 1044  git status 
+ 1045  git pull git@github.com:ruejo2013/fintech_bootcamp_module_2.git
+ 1046  git status 
+ 1047  clear
+ 1048  pip install questionary 
+ 1049  git install fire 
+ 1050  pip install fire 
+ 1051  clear
+ 1052  git status 
+ 1053  python3 app.py
+ 1054  clear
+ 1055  git add .
+ 1056  git commit -m 'Added save_qualifying_loan function to app.py'
+ 1057  freeze > requirements.py 
+ 1058  pip freeze requirements.py 
+ 1059  clear
+ 1060  git add . 
+ 1061  git commit -m 'Added requirements.py file'
+ 1062  python3 app.py
+ 1063  clear
+ 1064  python3 app.py
+ 1065  python3 app.py
+ 1066  clear
+ 1067  git status
+ 1068  git add .
+ 1069  git commit -m 'Update save_csv functions'
+ 1070  clear
+ 1071  flake8 app.py
+ 1072  black app.py
+ 1073  clear
+ 1074  pylint app.py
+ 1075  python3 app.py
+ 1076  clear
+ 1077  python3 app.py
+ 1078  clear
+ 1079  python3 app.py
+ 1080  python3 app.py
+ 1081  clear
+ 1082  git add . 
+ 1083  git status 
+ 1084  git commit -m 'Moved save_csv function to fileio.py folder'
+ 1085  clear
+ 1086  pip install firels
+ 1087  ls
+ 1088  mkdir images
+ 1089  git status
+ 1090  git add . 
+ 1091  git commit -m 'Updating readme file, adding image from images folder' 
+ 1092  git status 
+ 1093  ls
+ 1094  git add .
+ 1095  git commit -m 'Adding all changes'
+ 1096  git status 
+ 1097  git add .
+ 1098  git commit -m 'added bank list screenshot to readme'
+ 1099  git status 
+ 1100  clear
+ 1101  ls
+ 1102  cd ..
+ 1103  ls
+ 1104  cd ..
+ 1105  ls
+ 1106  cd Starter_Code
+ 1107  ls
+ 1108  cd loan_qualifier_app
+ 1109  clear
+ 1110  python3 app.py
+ 1111  git status 
+ 1112  git add . 
+ 1113  clear 
+ 1114  git status 
+ 1115  git add . 
+ 1116  clear
+ 1117  git commit -m "Update readme.md file"
+ 1118  python3 app.py 
+ 1119  ls
+ 1120  rm -r loan_amount2.csv 
+ 1121  rm -r loans_amount2.csv
+ 1122  ls 
+ 1123  clear 
